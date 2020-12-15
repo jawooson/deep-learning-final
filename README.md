@@ -1,5 +1,10 @@
 # Neural Network Finger Printer
-This project is using my own account with NYU's HPC resources. When creating directory structure, make sure to replace anything with my username jw6254 with your own. 
+
+### Project Overview
+This is a final project for CS-GY 9223: DEEP LEARNING at New York University Tandon School of Engineering. The goal of the project is to use a neural network for the purpose of fingerprinting audio data. The neural network used is based off work by Google in their paper [Now Playing: Continuous low-power music
+recognition](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46522.pdf). This project is for education purposes ONLY and uses code found on other Github repositories. Two projects that I modified code from are [Triplet Loss](https://github.com/CrimyTheBold/tripletloss) and [Music Genre Classification](https://github.com/celestinhermez/music-genre-classification).
+
+This project is using my own account with NYU's HPC resources. When creating directory structure, make sure to replace anything with my username jw6254 with your own. To see some system requirements, please look at the [sbatch script](https://github.com/jawooson/deep-learning-final/blob/master/sbatch_files/run-jupyter.sbatch) provided. 
 
 ### Data Download
 
