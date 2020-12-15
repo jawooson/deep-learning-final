@@ -30,5 +30,8 @@ cd /scratch/jw6254/unziptest
 wget https://os.unil.cloud.switch.ch/fma/fma_small.zip
 unzip fma_small.zip
 ```
-
 May need to use p7zip to unzip fma_small.zip
+
+### Cleaning Data and Running Network 
+Two different yml files are provided. If you follow the instructions to download the conda environements, the environement music is meant to run [convert_mp3_wav.ipynb](https://github.com/jawooson/deep-learning-final/blob/master/convert_mp3_wav.ipynb) and the environment keras is meant to run [batching _and_network.ipynb](https://github.com/jawooson/deep-learning-final/blob/master/batching_and_network.ipynb)
+
